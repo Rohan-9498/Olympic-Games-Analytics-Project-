@@ -11,7 +11,7 @@ Objective of this Project is to Analyze data (Olympic Game) in Apache Spark usin
 3. Graphical  Representation of Data using Databricks notebook.
 ## About Databricks:
 Databricks lets us start writing Spark queries instantly so we can focus on our data problems.
-##Data:
+## Data:
 Data exploration about the recent history of the Olympic Games.
 We has explore a dataset on the modern Olympic Games, including all the Games from Athens 1896 to Rio 2016.
 
