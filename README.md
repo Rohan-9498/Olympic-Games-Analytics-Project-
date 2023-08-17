@@ -2,7 +2,7 @@
 Olympic Games Analytics Project in Apache Spark for beginner using Databricks
 
 ## Overview
-As one of the spark case use, we will discuss the analysis of Olympics dataset using Apache Spark in Scala,we will explore a dataset on the modern Olympics Games, including all the Games from Athens 1896 to Rio 2016.
+As one of the spark case use, we have discuss the analysis of Olympics dataset using Apache Spark in Scala,we have explore a dataset on the modern Olympics Games, including all the Games from Athens 1896 to Rio 2016.
 Data exploration about the recent history of history Olympics Games.
 ## Project objective
 Objective of this Project is to Analyze data (Olympic Game) in Apache Spark using Databricks Notebook(Community edition).
@@ -10,4 +10,10 @@ Objective of this Project is to Analyze data (Olympic Game) in Apache Spark usin
 2. Olympic Games Analytics a real world examples.
 3. Graphical  Representation of Data using Databricks notebook.
 ## About Databricks:
-Databricks lets you start writing Spark queries instantly so you can focus on your data problems.
+Databricks lets us start writing Spark queries instantly so we can focus on our data problems.
+##Data:
+Data exploration about the recent history of the Olympic Games.
+We has explore a dataset on the modern Olympic Games, including all the Games from Athens 1896 to Rio 2016.
+
+
+
